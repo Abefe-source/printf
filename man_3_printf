@@ -46,3 +46,4 @@ _printf does not take care of length and precision modifiers yet. For example, _
 
 .SH AUTHOR
 Oladega Adeola and Wisdom Ifode - Students at ALX School Africa.
+
