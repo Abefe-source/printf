@@ -35,6 +35,9 @@ int print_int(va_list l, flags_t *f);
 void print_number(int n);
 int print_unsigned(va_list l, flags_t *f);
 int count_digit(int i);
+void print_function(const char *str);
+char *int_dec_spec(int num);
+void _count(int *per, char *str);
 
 /* print_bases */
 int print_hex(va_list l, flags_t *f);
